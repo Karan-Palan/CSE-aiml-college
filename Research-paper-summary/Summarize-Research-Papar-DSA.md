@@ -123,3 +123,26 @@ Visualization: Data Structure Comparison Chart
 ## 5. Conclusion
 This paper highlights advancements in data structures and algorithms, emphasizing their transformative impact on computational efficiency and domain-specific adaptability. Innovations like tries, CCS-Z, and ReTRN exemplify the potential of customized computational solutions. Future research must continue bridging theoretical developments with practical implementations, expanding the reach of these innovations.
 
+---
+
+### **References**
+
+1. , *Journal of Artificial Intelligence Research and Development*, 2024.
+2. , *Procedia Computer Science*, 2016.
+3. , *Procedia Social and Behavioral Sciences*, 2014.
+4. , *Procedia Computer Science*, 2015.
+5. , *Computational Geometry: Theory and Applications*, 2007.
+6. , *Knowledge-Based Systems*, 2017.
+7. , *European Journal of Medical Informatics*, 2024.
+8. , *Transportation Research Part B*, 2017.
+9. , *Theoretical Computer Science*, 2017.
+10. , *Journal of Discrete Algorithms*, 2006.
+11. , *Software Practice and Experience*, 2019.
+12. , *Theoretical Computer Science*, 2015.
+13. , *Egyptian Informatics Journal*, 2019.
+14. , *Heliyon Journal*, 2024.
+15. , *Physics Procedia*, 2012.
+16. , *Genomics*, 2009.
+17. , *Mathematical and Computer Modelling*, 2003.
+
+---
